@@ -1,0 +1,38 @@
+H:\Projects\Avs.Server\Avs.Server\bin\Debug\Avs.Server.exe.config
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\Avs.Server.exe.config
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\obj\Debug\Avs.Server.csprojResolveAssemblyReference.cache
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\obj\Debug\Avs.Server.Scaner.resources
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\obj\Debug\Avs.Server.Properties.Resources.resources
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\obj\Debug\Avs.Server.csproj.GenerateResource.Cache
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\Avs.Server.exe
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\Avs.Server.pdb
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\JamesWright.SimpleHttp.dll
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\log4net.dll
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\TwainDotNet.dll
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\TwainDotNet.WinFroms.dll
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\JamesWright.SimpleHttp.pdb
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\log4net.xml
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\TwainDotNet.pdb
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\TwainDotNet.xml
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\TwainDotNet.WinFroms.pdb
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\bin\Debug\TwainDotNet.WinFroms.xml
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\obj\Debug\Avs.Server.exe
+J:\new src\scanner\Scanners\HybridServer\Avs.Server\Avs.Server\obj\Debug\Avs.Server.pdb
+H:\Development\Avs.Server\Avs.Server\bin\Debug\Avs.Server.exe.config
+H:\Development\Avs.Server\Avs.Server\obj\Debug\Avs.Server.exe
+H:\Development\Avs.Server\Avs.Server\obj\Debug\Avs.Server.pdb
+H:\Development\Avs.Server\Avs.Server\bin\Debug\Avs.Server.exe
+H:\Development\Avs.Server\Avs.Server\bin\Debug\Avs.Server.pdb
+H:\Development\Avs.Server\Avs.Server\obj\Debug\Avs.Server.Scaner.resources
+H:\Development\Avs.Server\Avs.Server\obj\Debug\Avs.Server.Properties.Resources.resources
+H:\Development\Avs.Server\Avs.Server\obj\Debug\Avs.Server.csproj.GenerateResource.Cache
+H:\Development\Avs.Server\Avs.Server\obj\Debug\Avs.Server.csprojResolveAssemblyReference.cache
+H:\Development\Avs.Server2\Avs.Server\bin\Debug\Avs.Server.exe.config
+H:\Development\Avs.Server2\Avs.Server\obj\Debug\Avs.Server.exe
+H:\Development\Avs.Server2\Avs.Server\obj\Debug\Avs.Server.pdb
+H:\Development\Avs.Server2\Avs.Server\bin\Debug\Avs.Server.exe
+H:\Development\Avs.Server2\Avs.Server\bin\Debug\Avs.Server.pdb
+H:\Development\Avs.Server2\Avs.Server\obj\Debug\Avs.Server.csprojResolveAssemblyReference.cache
+H:\Development\Avs.Server2\Avs.Server\obj\Debug\Avs.Server.Scaner.resources
+H:\Development\Avs.Server2\Avs.Server\obj\Debug\Avs.Server.Properties.Resources.resources
+H:\Development\Avs.Server2\Avs.Server\obj\Debug\Avs.Server.csproj.GenerateResource.Cache
